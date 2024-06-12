@@ -20,6 +20,7 @@ export default function Home() {
     setFoodItem(response[0]);
     setFoodCat(response[1]);
   }
+  
 
   useEffect(() => {
     loadData();

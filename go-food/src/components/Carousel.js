@@ -13,13 +13,13 @@ export default function Carousel() {
             </form>
           </div>
           <div className="carousel-item active">
-            <img src="https://source.unsplash.com/random/300×300/?tacos" className="d-block w-100 object-fit-contain" style={{ filter: "brightness(30%)" }} alt="Burgers" />
+            <img src="https://cdn.pixabay.com/photo/2020/05/17/04/22/pizza-5179939_640.jpg" className="d-block w-100 object-fit-contain" style={{ filter: "brightness(30%)" }} alt="Burgers" />
           </div>
           <div className="carousel-item">
-            <img src="https://source.unsplash.com/random/300×300/?Muffin" className="d-block w-100 object-fit-contain" style={{ filter: "brightness(30%)" }} alt="Pizza" />
+            <img src="https://images.unsplash.com/photo-1571091718767-18b5b1457add?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJ1cmdlcnxlbnwwfHwwfHx8MA%3D%3D" className="d-block w-100 object-fit-contain" style={{ filter: "brightness(30%)" }} alt="Pizza" />
           </div>
           <div className="carousel-item">
-            <img src="https://source.unsplash.com/random/300×300/?Burrito" className="d-block w-100 object-fit-contain" style={{ filter: "brightness(30%)" }} alt="Barbeque" />
+            <img src="https://www.idealancy.pk/images/product_gallery/1656491282_grill_bbq_2.jpg" className="d-block w-100 object-fit-contain" style={{ filter: "brightness(30%)" }} alt="Barbeque" />
           </div>
         </div>
         <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
